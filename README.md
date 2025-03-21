@@ -9,7 +9,7 @@
 
 ## 🔗 문서
 
-📘 **[API 문서 (Doxygen 기반)](https://hongmin78.github.io/docs/html/v4kem)**
+📘 **[API 문서 (Doxygen 기반)]([)](https://hongmin78.github.io/v4kem/docs/html/index.html)**
 
 ---
 
