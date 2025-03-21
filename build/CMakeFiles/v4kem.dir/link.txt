@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libv4kem.a CMakeFiles/v4kem.dir/src/v4kem.c.o CMakeFiles/v4kem.dir/src/mlwe.c.o CMakeFiles/v4kem.dir/src/puf.c.o CMakeFiles/v4kem.dir/src/sram_puf.c.o CMakeFiles/v4kem.dir/src/sha3.c.o CMakeFiles/v4kem.dir/src/randombytes.c.o CMakeFiles/v4kem.dir/src/kdf.c.o CMakeFiles/v4kem.dir/src/verify.c.o CMakeFiles/v4kem.dir/wrapper/mlkem_compat.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libv4kem.a
